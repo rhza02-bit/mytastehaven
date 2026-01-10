@@ -1,0 +1,1 @@
+(()=>{"use strict";(0,window.wp.hooks.addFilter)("tasty_recipes_is_pro","tasty-recipes-pro/recipe-explorer",()=>!0)})();
